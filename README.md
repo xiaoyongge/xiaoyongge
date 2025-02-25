@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am a hardware product manager, but I am interested in coding. 
+
+So, it's happy to meet you guys.
+
+I will focus on IOT, AI.
+
+😄😄 Passion！😄😄
+
+
 <!--
 **xiaoyongge/xiaoyongge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
